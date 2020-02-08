@@ -1,4 +1,4 @@
-## Project Instructions
+## The Environment
 
 For this project, you will work with the Tennis environment.
 
@@ -12,9 +12,6 @@ The task is episodic, and in order to solve the environment, your agents must ge
     This yields a single score for each episode.
 
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
-
-
-## The Environment
 
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
@@ -48,3 +45,28 @@ After you have followed the instructions above, open Tennis.ipynb (located in th
 Watch the (silent) video below to see what kind of output to expect from the notebook, if everything is working properly!
 
 In the last code cell of the notebook, you'll learn how to design and observe an agent that always selects random actions at each timestep. Your goal in this project is to create an agent that performs much better!
+
+## Project Instructions
+
+For this project, you will train an agent to solve the provided environment.
+
+To submit the project, you will provide a link to a GitHub repository with your implementation. If you would like a refresher on GitHub, please check out the lessons on GitHub in the extracurricular content.
+
+To review the detailed project requirements, please read the project rubric.
+
+The format of this project is largely open-ended; you need only satisfy the points in the rubric. For instance, while we suspect that the majority of students will train the agent in a Jupyter notebook, you are welcome to instead structure your repository so that your Python code is run from the command line instead.
+Your GitHub Submission
+
+As described in the rubric, your GitHub submission should contain:
+
+    a README that describes how someone not familiar with this project should use your repository. The README should be designed for a general audience that may not be familiar with the Nanodegree program; you should describe the environment that you solved, along with how to install the requirements before running the code in your repository.
+    the code that you use for training the agent, along with the trained model weights.
+    a report describing your learning algorithm. This is where you will describe the details of your implementation, along with ideas for future work.
+
+This GitHub repository will serve as a portfolio piece to share your new skills with the global community of reinforcement learning students and practitioners, along with potential employers!
+Project Workspace
+
+While you are welcome to train the agent locally on your own machine, you can also complete the project in the Workspace that appears towards the end of this lesson. Note that the Workspace does not allow you to see the simulator of the environment; so, if you want to watch the agent while it is training, you should train locally.
+
+The Workspace provides a Jupyter server directly in your browser and has GPU support. You can learn more about the Workspace by perusing the Udacity Workspaces lesson in the extracurricular content.
+
