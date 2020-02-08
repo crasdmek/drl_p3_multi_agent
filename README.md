@@ -72,3 +72,24 @@ While you are welcome to train the agent locally on your own machine, you can al
 
 The Workspace provides a Jupyter server directly in your browser and has GPU support. You can learn more about the Workspace by perusing the Udacity Workspaces lesson in the extracurricular content.
 
+
+### Dependencies
+
+1. Unity ML-Agents https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
+
+2. NumPy http://www.numpy.org/
+
+3. Open AI Gym https://github.com/openai/gym
+
+4. PyTorch https://pytorch.org/get-started/locally/
+
+
+## Instructions
+RUN each Jupyter Code Cell in Order within Continuous_Control.ipynb
+1. Start the Environment
+2. Examine the State and Action Spaces
+3. You can Skip this part
+4. Train the Agent with DDPG (Deep Deterministic Policy Gradient)
+5. Close the Environment
+
+## Congratulations, You now have a trained Continuous Control Agent!
