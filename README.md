@@ -1,3 +1,5 @@
+## Project Instructions
+
 For this project, you will work with the Tennis environment.
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
@@ -12,11 +14,11 @@ The task is episodic, and in order to solve the environment, your agents must ge
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 
-##The Environment
+## The Environment
 
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
-###Step 1: Activate the Environment
+### Step 1: Activate the Environment
 
 If you haven't already, please follow the instructions in the DRLND GitHub repository to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
@@ -24,7 +26,7 @@ If you haven't already, please follow the instructions in the DRLND GitHub repos
 
     SPECIAL NOTE TO BETA TESTERS - please also download the p3_collab-compet folder from here and place it in the DRLND GitHub repository.
 
-###Step 2: Download the Unity Environment
+### Step 2: Download the Unity Environment
 
 For this project, you will not need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
@@ -39,7 +41,7 @@ Then, place the file in the p3_collab-compet/ folder in the DRLND GitHub reposit
 
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the "headless" version of the environment. You will not be able to watch the agent without enabling a virtual screen, but you will be able to train the agent. (To watch the agent, you should follow the instructions to enable a virtual screen, and then download the environment for the Linux operating system above.)
 
-###Step 3: Explore the Environment
+### Step 3: Explore the Environment
 
 After you have followed the instructions above, open Tennis.ipynb (located in the p3_collab-compet/ folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
